@@ -30,7 +30,7 @@ sudo apt install git
 
 apt는 도대체 무엇이냐?
 Advanced Package Tool : 패키지 관리자
-
+ 
 우분투에서 프로그램을 설치할 때 apt install을 자주 접하게 될텐데
 
 우리가 설치할 `패키지`중에 git을 설치하겠다.
@@ -50,3 +50,4 @@ apt install 땅 때렸을 때.
 
 
 -- 흑인을 부를때
+<!-- 두번째 커밋 위해 내용 추가 -->
